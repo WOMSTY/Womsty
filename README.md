@@ -20,6 +20,14 @@ I design and deploy AI solutions and automated workflows for businesses that wan
 * **What it is:** An automated, real-time algorithmic trading bot built in TypeScript.
 * **Why it matters:** Showcases strong backend architecture, API integration, and real-time database management for time-sensitive automated strategies.
 
+#### 🌐 [Plugin for stems separating](link-to-your-repo)
+* **What it is:** A complete website, database, and admin portal for product sales and rentals.
+* **Why it matters:** A real-world client project (deployed and maintained for 6+ months), proving my reliability in delivering and scaling full-stack web solutions.
+
+#### 🌐 [Plugin: crystal reverb](link-to-your-repo)
+* **What it is:** A complete website, database, and admin portal for product sales and rentals.
+* **Why it matters:** A real-world client project (deployed and maintained for 6+ months), proving my reliability in delivering and scaling full-stack web solutions.
+
 #### 🌐 [YTC Machines Web Platform](link-to-your-repo)
 * **What it is:** A complete website, database, and admin portal for product sales and rentals.
 * **Why it matters:** A real-world client project (deployed and maintained for 6+ months), proving my reliability in delivering and scaling full-stack web solutions.
@@ -27,6 +35,6 @@ I design and deploy AI solutions and automated workflows for businesses that wan
 ---
 
 📫 **Let's connect:**
-* **Malt Profile:** [Hire me on Malt](insert-your-malt-link-here)
-* **LinkedIn:** [Connect with me](insert-your-linkedin-link-here)
+* **Malt Profile:** [Hire me on Malt](https://www.malt.fr/profile/eliedemartelaer1?origin=site_nav_bar)
+* **Instagram:** [Connect with me]([insert-your-linkedin-link-here](https://www.instagram.com/elie_marteau/))
 * **Email:** elie.de.martelaer@gmail.com
